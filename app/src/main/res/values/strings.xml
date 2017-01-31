@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DINT01</string>
+    <string name="bt_open_dialog">Open dialog</string>
+    <string name="option1">Option 1</string>
+    <string name="option1button">Option 1 button</string>
+    <string name="option2">Option 2</string>
+    <string name="option2button">Option 2 button</string>
+    <string name="change_image_text">Modificar imagen por otra</string>
+    <string name="change_image_action">Cambiar imagen</string>
+    <string name="change_background">Modificar color de fondo</string>
+    <string name="change_background_action">Cambiar color</string>
+    <string name="hide_show_text">Ocultar la imagen</string>
+    <string name="hide_show_action">Ocultar</string>
+    <string name="contract_image_text">Hacer desaparecer la imagen</string>
+    <string name="contract_image_action">Eliminar imagen</string>
+    <string name="ask_for_text_text">Cambiar texto de cabecera</string>
+    <string name="ask_for_text_action">Cambiar texto</string>
+    <string name="show_progress_dialog">Mostrar diálogo de progreso</string>
+    <string name="show_progress_dialog_action">Mostrar</string>
+    <string name="bt_close_app">Finalizar aplicación</string>
+    <string name="hide_image">Ocultar Imagen</string>
+    <string name="show_image">Mostrar Imagen</string>
+    <string name="remove_image">Eliminar Imagen</string>
+    <string name="loading">Cargando algo</string>
+    <string name="bye_text">Goodbye</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="accept">Aceptar</string>
+    <string name="insert_new_text">Introduzca un texto</string>
+    <string name="new_text">Nuevo texto</string>
+</resources>
